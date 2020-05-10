@@ -51,3 +51,39 @@ theme = "LoveIt"
     url = "/categories/"
     title = ""
     weight = 4
+
+# Home page config
+  [params.home]
+    # LoveIt NEW | 0.2.0 amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/profile.jpg"
+      # LoveIt NEW | 0.2.5 title shown in home page
+      title = ""
+      # subtitle shown in home page
+      subtitle = "You're here, awesome! Be my guest. Mi casa es su casa :)"
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = true
+      # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+      # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+      # default behavior when you don't set "hiddenFromHomePage" in front matter
+      defaultHiddenFromHomePage = false
+
+  # Social config about the author
+  [params.social]
+    GitHub = "/crisgoncalves"
+    Linkedin = "/crisgoncalves84"
+    Twitter = "/crisgoncalves84"
