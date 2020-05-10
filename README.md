@@ -1,2 +1,2 @@
 # crisgoncalves.dev
-repository of my personal blog
+My personal blog contents
