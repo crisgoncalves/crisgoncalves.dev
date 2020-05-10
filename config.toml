@@ -66,7 +66,7 @@ theme = "LoveIt"
       # LoveIt NEW | 0.2.5 title shown in home page
       title = ""
       # subtitle shown in home page
-      subtitle = "You're here, awesome! Be my guest. Mi casa es su casa :)"
+      subtitle = "Hey, I'm Chris! Feel at home."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
