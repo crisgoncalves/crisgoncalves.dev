@@ -19,7 +19,7 @@ theme = "LoveIt"
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "About"
+    name = "About me"
     url = "/about"
     # title will be shown when you hover on this menu link
     title = "more about me"
@@ -66,9 +66,9 @@ theme = "LoveIt"
       # LoveIt NEW | 0.2.5 title shown in home page
       title = ""
       # subtitle shown in home page
-      subtitle = "Hey, I'm Chris! Feel at home."
+      subtitle = "Hey, I'm Chris!"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
@@ -93,7 +93,7 @@ theme = "LoveIt"
   [params.footer]
     enable = true
     # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
-    custom = 'Thanks <a href="https://dillonzq.com/">Dillon</a> for this awesome template :)'
+    custom = ''
     # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
     hugo = true
     # LoveIt NEW | 0.2.0 whether to show copyright info
