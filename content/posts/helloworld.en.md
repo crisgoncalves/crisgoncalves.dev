@@ -6,7 +6,7 @@ authorLink: "http://localhost:1313"
 draft: false
 
 ## images: ["images/mysql-recursive/cover.jpg"]
-featuredImage: "/images/mysql-recursive/cover.jpg"
+## featuredImage: "/images/mysql-recursive/cover.jpg"
 
 tags: ["mysql"]
 categories: ["databases"]
